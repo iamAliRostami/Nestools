@@ -1,4 +1,4 @@
-package com.leon.nestools;
+package com.leon.nestools.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,6 +8,7 @@ import android.view.WindowManager;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.leon.nestools.R;
 import com.leon.nestools.databinding.SplashActivityBinding;
 
 public class SplashActivity extends AppCompatActivity {

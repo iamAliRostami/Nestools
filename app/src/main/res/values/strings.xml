@@ -2,6 +2,10 @@
     <string name="app_name">Nestools</string>
     <string name="waiting">لطفا منتظر بمانید…</string>
     <string name="nestools_url">https://nestools.ir/</string>
+    <string name="nestools_orders_url">https://nestools.ir/order/history</string>
+    <string name="nestools_favorites_url">https://nestools.ir/wishlist</string>
+    <string name="nestools_contact_us_url">https://nestools.ir/contactus</string>
+    <string name="nestools_account_url">https://nestools.ir/login</string>
     <string name="error">خطا</string>
     <string name="error_IO">اینترنت وصل نیست، اینترنت وایفای یا همراه خود را روشن کنید.</string>
     <string name="title_activity_main2">MainActivity</string>
@@ -10,9 +14,11 @@
     <string name="nav_header_title">Nestools.ir</string>
     <string name="nav_header_subtitle">nestools.ir@gmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_account">حساب من</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">خانه</string>
+    <string name="menu_orders">سفارشات</string>
+    <string name="menu_favorites">علاقه مندی ها</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
